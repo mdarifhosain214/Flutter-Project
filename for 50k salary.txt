@@ -1,0 +1,204 @@
+ Essential Widget List for 50K+ Flutter Job
+🔹 1. Layout Widgets (Build UI Structure)
+     	Container
+
+     	Row, Column
+
+    	Stack, Positioned
+
+    	Expanded, Flexible
+
+    	SizedBox
+
+   	Padding, Margin (via EdgeInsets)
+
+	Wrap, Align, Center
+
+🔹 2. Display Widgets (Show Text, Images, Icons)
+	Text
+
+	RichText
+
+	Image
+
+	Icon, IconButton
+
+	CircleAvatar
+
+	Card
+
+	ListTile
+
+🔹 3. Input & Form Widgets
+	TextField, TextFormField
+
+	Form, GlobalKey
+
+	DropdownButton, PopupMenuButton
+
+	Checkbox, Radio, Switch
+
+	Slider, DatePicker, TimePicker
+ 4. Buttons
+	ElevatedButton
+
+	TextButton
+
+	OutlinedButton
+
+	FloatingActionButton
+
+	InkWell, GestureDetector
+
+🔹 5. Lists & Grids
+	ListView, ListView.builder
+
+	GridView, GridView.builder
+
+	ReorderableListView
+
+	ListWheelScrollView
+
+🔹 6. Navigation Widgets
+Navigator, push, pop
+
+	MaterialPageRoute, NamedRoute
+
+	BottomNavigationBar
+
+	TabBar, TabBarView, DefaultTabController
+
+	Drawer, AppBar, Scaffold
+
+🔹 7. Feedback & Alerts
+	SnackBar
+
+	AlertDialog, SimpleDialog
+
+	BottomSheet, showModalBottomSheet
+
+	ProgressIndicator (Linear & Circular)
+
+🔹 8. Advanced UI & Animations
+	AnimatedContainer, AnimatedOpacity
+
+	Hero
+
+	TweenAnimationBuilder
+
+	Lottie (via package)
+
+	PageView, PageController
+
+	CustomPaint (for drawing)
+
+🔹 9. Scroll & Slivers
+	SingleChildScrollView
+
+	NestedScrollView
+
+	CustomScrollView, SliverAppBar, SliverList
+
+🔹 10. Useful Utility Widgets
+	FutureBuilder
+
+	StreamBuilder
+
+	MediaQuery
+
+	LayoutBuilder
+
+	OrientationBuilder
+
+	Visibility
+
+🧠 Bonus Tip: Combine Widgets for Real Features
+
+Feature	Widgets
+Login Form	TextFormField, Form, ElevatedButton
+Profile Screen	Card, ListTile, CircleAvatar
+Product Grid	GridView.builder, GestureDetector
+Tabbed App	TabBar, TabBarView, BottomNavigationBar
+Sliver Scroll	SliverAppBar, SliverList, CustomScrollView
+
+
+
+ 1. GitHub Portfolio Mastery
+Push each feature-based app (TSOM, ERBIS, Fuel Tracker) in clean folders
+
+Add proper README.md with:
+
+App summary
+
+Features
+
+Tech used
+
+Screenshots/GIFs
+
+APK link (optional)
+
+🎓 2. Master Clean Architecture
+You've done MVVM — now explore:
+
+Folder-by-feature structure
+
+Domain, Data, Presentation layers
+
+Use get_it or riverpod for dependency injection
+
+📱 3. Explore Platform-Specific Features
+Camera, image picker
+
+File storage
+
+Bluetooth or device info
+
+Work with platform channels (Flutter <-> native)
+
+🧪 4. Write Tests for Your Code (Boss-Level Skill)
+unit, widget, and integration tests
+
+Test Hive logic, validation, and widgets
+
+🌍 5. Multi-language + Theme Switching
+Use flutter_localizations & intl
+
+Add a language toggle button
+
+Dark/light mode switching
+
+💼 6. Deploy a Full App
+Publish one app on Play Store
+
+Use Firebase or Spring Boot/ASP.NET backend
+
+Add it to your GitHub + CV
+
+✨ 7. Freelance or Apply
+Start bidding on Upwork/Fiverr
+
+Apply to companies hiring Flutter devs in BD
+
+Show them your real projects, not just demo UIs
+
+✅ Next Step
+Wanna build your GitHub portfolio layout together now? Or explore advanced tools like:
+
+flutter_bloc with hydrated_bloc
+
+go_router
+
+riverpod
+
+Custom Flutter packages?
+
+Your path to 50K+ is clear, dost — now let’s make you stand out loud and proud 😎🚀
+
+
+
+
+
+
+
+
