@@ -4,6 +4,7 @@ import 'package:flutter_mvvm_clean_architectur/presentation/login/login.dart';
 import 'package:flutter_mvvm_clean_architectur/presentation/main_view/main_view.dart';
 import 'package:flutter_mvvm_clean_architectur/presentation/onboarding/onboarding.dart';
 import 'package:flutter_mvvm_clean_architectur/presentation/register/register.dart';
+import 'package:flutter_mvvm_clean_architectur/presentation/resources/string_manager.dart';
 import 'package:flutter_mvvm_clean_architectur/presentation/splash/splash.dart';
 import 'package:flutter_mvvm_clean_architectur/presentation/store_details/store_details.dart';
 
@@ -40,7 +41,7 @@ class RouteGenerator {
   }
 
   static Route<dynamic> unDefinedRoute() {
-    return MaterialPageRoute(builder: (_)=> Scaffold(appBar: AppBar(title: Text("No Route Found"),),
-    body: Center(child: Text("No Route Found")),),);
+    return MaterialPageRoute(builder: (_)=> Scaffold(appBar: AppBar(title: Text(AppString.noRouteFound),),
+    body: Center(child: Text(AppString.noRouteFound)),),);
   }
 }
