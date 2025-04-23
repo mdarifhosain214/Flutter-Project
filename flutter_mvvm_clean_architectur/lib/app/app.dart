@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_mvvm_clean_architectur/presentation/resources/routes_manager.dart';
 
 class MyApp extends StatefulWidget {
    const MyApp({super.key}); //default constructor
@@ -11,6 +12,9 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return MaterialApp(
+      initialRoute: Routes.splashRoute,
+      onGenerateRoute: RouteGenerator.getRoute,
+    );
   }
 }
