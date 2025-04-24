@@ -38,7 +38,7 @@ class _SplashViewState extends State<SplashView> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: ColorManager.primary,
-      body: Center(child: Image(image: AssetImage(ImagesAssets.splashLogo))),
+      body: Center(child: Image(image: AssetImage(ImagesAssets.splashLogo,),fit: BoxFit.cover,)),
     );
   }
 }
