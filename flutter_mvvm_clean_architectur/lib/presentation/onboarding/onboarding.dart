@@ -10,6 +10,6 @@ class OnBoardinView extends StatefulWidget {
 class _OnBoardinViewState extends State<OnBoardinView> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold();
   }
 }
