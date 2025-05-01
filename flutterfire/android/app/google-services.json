@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517039270222",
+    "project_id": "flutterfire-deda3",
+    "storage_bucket": "flutterfire-deda3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517039270222:android:fceef467b12d6eae8c961f",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWwnUqmWjzDuZ22I2H0WiWM1bCCHiL9ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
